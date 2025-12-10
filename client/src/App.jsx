@@ -23,7 +23,7 @@ import {
   Users
 } from 'lucide-react';
 
-const API_URL = 'https://fullstackflightbooking-server-backend.onrender.com';
+const API_URL = 'https://fullstackflightbooking-backend.onrender.com';
 const MY_UPI_ID = 'your_upi_id@oksbi'; 
 const MY_NAME = 'AeroSwift Flights';
 
